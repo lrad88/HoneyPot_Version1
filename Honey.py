@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-#123 pen
+#123 peno
 import socket
 import paramiko
 # paramiko is a python library for SSHv2, for client and server
